@@ -1,9 +1,9 @@
 {
-  "host": "localhost",
+  "host": "https://pandye.github.io/new-feather-app",
   "port": 4000,
   "public": "./public/",
   "origins": [
-    "http://localhost:4000"
+    "https://pandye.github.io/new-feather-app"
   ],
   "paginate": {
     "default": 10,
