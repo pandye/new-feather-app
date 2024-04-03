@@ -31,7 +31,7 @@
   "main": "lib/index",
   "type": "module",
   "scripts": {
-    "dev": "node src/",
+    "start": "node src/",
     "mocha": "cross-env NODE_ENV=test mocha test/ --recursive --exit",
     "test": "npm run mocha"
   },
